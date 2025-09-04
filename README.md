@@ -4,7 +4,7 @@
   <img height="142" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-##
+###
 
 <br clear="both">
 
@@ -23,7 +23,7 @@
   </a>
 </div>
 
-##
+###
 
 <br clear="both">
 
@@ -153,7 +153,13 @@
   <img src="https://streak-stats.demolab.com?user=KarimEFTH&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KarimEFTH&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+###
+
+<img src="https://raw.githubusercontent.com/KarimEFTH/KarimEFTH/output/snake.svg" alt="Snake animation" />
 
 ###
