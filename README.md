@@ -155,5 +155,5 @@
 
 ###
 
-## 🏆 GitHub Trophies </h3>
+<h3 align="left">🏆 GitHub Trophies </h3>
 ![](https://github-profile-trophy.vercel.app/?username=KarimEFTH&theme=radical&no-frame=false&no-bg=false&margin-w=4)
