@@ -155,6 +155,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KarimEFTH/KarimEFTH/output/snake.svg" alt="Snake animation" />
-
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KarimEFTH&theme=radical&no-frame=false&no-bg=false&margin-w=4)
