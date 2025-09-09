@@ -27,7 +27,7 @@
 
 <br clear="both">
 
-<h2 align="center">Welcome!, I'm Karim EL FATHI<br>Mobile & Desktop Developer & Data Analyst</h2>
+<h2 align="center">Welcome!, I'm Karim EL FATHI<br>Mobile Developer & Data Analyst</h2>
 
 ###
 
