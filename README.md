@@ -43,8 +43,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="25" alt="android logo"  />
   <img width="5" />
