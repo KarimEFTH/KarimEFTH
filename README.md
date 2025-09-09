@@ -145,7 +145,7 @@
 
 <br clear="both">
 
-🏆 GitHub Trophies
+###🏆 GitHub Trophies
 
 ###
 
