@@ -37,7 +37,7 @@
 
 <p align="left">🔭 Working on: Mobile & desktop apps (Flutter, Kotlin) & data analysis<br>👯 Collaborating on: Tech & data-driven projects<br>🤝 Help with: Business dev & analytics<br>🌱 Learning: Testing, deployment, maintenance, SaaS & data analytics (Python, SQL)<br>💬 Ask me about: Flutter, Kotlin, Firebase, data analysis<br>⚡ Fun fact: From Essaouira 🌊, building tech solutions</p>
 
-###
+<br clear="both">
 
 <h3 align="left">🛠 Language and tools</h3>
 
