@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android |Flutter & Kotlin|**
 
-- 📫 How to reach me **karimelfathi3@gmail.com**
+- 📫 How to reach me **mailto:karimelfathi3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
