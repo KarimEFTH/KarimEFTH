@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Change Dirham Mobile App**
 
-- 🌱 I’m currently learning **Data analysis**
+- 🌱 I’m currently learning **iOS**
 
 - 👯 I’m looking to collaborate on **Change Dirham Mobile App**
 
@@ -16,6 +16,8 @@
 - 📫 How to reach me **karimelfathi3@gmail.com**
 
 - ⚡ Fun fact **I think I'm not funny**
+
+- 🌍 I'm from **Essaouira, Morocco**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
